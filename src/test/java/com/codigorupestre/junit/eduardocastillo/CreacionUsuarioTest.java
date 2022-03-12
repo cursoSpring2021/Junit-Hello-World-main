@@ -23,5 +23,11 @@ public class CreacionUsuarioTest {
 		
 		assertTrue(usuarioCreado);
 	}
+	
+	
+	public void validarCreacionUsuario() {
+		
+		
+	}
 
 }
